@@ -6,5 +6,4 @@ venue: 'ACL-2017'
 paperurl: 'https://arxiv.org/abs/1612.01627'
 
 ---
-[PDF](https://arxiv.org/abs/1612.01627)
 
