@@ -1,5 +1,5 @@
 ---
-title: "Sequential Match Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots."
+title: "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots."
 collection: ACL-2017
 date: 2017-07-01
 venue: 'ACL-2017'
