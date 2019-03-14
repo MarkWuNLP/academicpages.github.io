@@ -12,4 +12,4 @@ Hi! I am Yu Wu (吴俣). I obtained my B.S. degree at Beihang University, and no
 
 I have adequent experiences in building open domain chatbot. During internship, I developed several effective methods, some of which are published in top tier conferences and transfer to XiaoIce.
 
-During my Ph.D. career, I published 5 papers on AAAI, 2 papers on ACL and 2 jounral papers (first author). I also co-authored 7 papers with other researchers.  
+During my Ph.D. career, I published **5 papers on AAAI, 2 papers on ACL and 2 jounral papers (first author).** I also co-authored 7 papers with other researchers.  
